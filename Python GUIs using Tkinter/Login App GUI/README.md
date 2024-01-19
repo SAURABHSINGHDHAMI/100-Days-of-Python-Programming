@@ -23,7 +23,7 @@ A simple login application with a graphical user interface (GUI) built using Tki
 
 3. Run the application:
    ```bash
-   python login_app.py
+   python login.py
    ```
 
 4. The GUI window will appear, prompting users to enter their email and password.
