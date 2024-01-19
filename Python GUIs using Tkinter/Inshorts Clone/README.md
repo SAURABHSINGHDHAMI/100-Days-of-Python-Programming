@@ -19,7 +19,7 @@ A simplified clone of the Inshorts app, this Python application fetches top head
 
 2. Navigate to the project directory:
    ```bash
-   cd inshort-clone
+   cd Inshorts Clone
    ```
 
 3. Run the application:
