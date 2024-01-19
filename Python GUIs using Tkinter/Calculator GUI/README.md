@@ -19,7 +19,7 @@ This is a simple calculator GUI created using the Tkinter library in Python. The
 
 1. Run the Python script in your terminal or preferred Python environment.
    ```bash
-   python calculator_gui.py
+   python calculator.py
    ```
 
 2. The calculator GUI window will appear.
