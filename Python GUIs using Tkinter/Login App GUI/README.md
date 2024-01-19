@@ -18,7 +18,7 @@ A simple login application with a graphical user interface (GUI) built using Tki
 
 2. Navigate to the project directory:
    ```bash
-   cd login-app-gui
+   cd Login App GUI
    ```
 
 3. Run the application:
