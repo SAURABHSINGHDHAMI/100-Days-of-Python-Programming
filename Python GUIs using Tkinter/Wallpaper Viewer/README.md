@@ -18,7 +18,7 @@ A simple wallpaper viewer application that allows users to view a collection of 
 
 2. Navigate to the project directory:
    ```bash
-   cd wallpaper-viewer
+   cd Wallpaper Viewer
    ```
 
 3. Place your wallpaper images in the "wallpapers" directory.
