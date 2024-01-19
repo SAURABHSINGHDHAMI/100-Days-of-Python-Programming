@@ -24,7 +24,7 @@ A simplified clone of the Inshorts app, this Python application fetches top head
 
 3. Run the application:
    ```bash
-   python inshort_clone.py
+   python news.py
    ```
 
 4. The GUI window will appear, displaying the top news headlines.
