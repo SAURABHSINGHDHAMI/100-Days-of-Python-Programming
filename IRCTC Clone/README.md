@@ -20,19 +20,22 @@ Encapsulation is applied by bundling the data (train details, API response) and 
 
 ## 🚀 Usage
 
-1. Make sure you have Python installed.
-2. Install the required packages by running the following command in your terminal:
+1. Clone the repository.
 
+2. Navigate to the project directory:
+   ```bash
+   cd IRCTC Clone
+   ```
+   
+3. Install the required packages by running the following command in your terminal:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the application:
-
-    ```bash
-    python app.py
-    ```
-
+4. Run the application:
+   ```bash
+   python app.py
+   ```
 Follow the on-screen instructions to interact with the IRCTC clone. Choose an option to check live train status, PNR, or train schedule.
 
 ## 🛠 Dependencies
