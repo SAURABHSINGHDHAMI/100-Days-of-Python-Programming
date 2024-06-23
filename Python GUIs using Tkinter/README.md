@@ -21,12 +21,16 @@ To use Tkinter in your Python projects, you can simply import the module and sta
 ```python
 import tkinter as tk
 
+# Create the main window
 root = tk.Tk()
 
+# Create a label widget
 label = tk.Label(root, text = "Hello, Tkinter!")
 
+# Pack the label into the window
 label.pack()
 
+# Start the main event loop
 root.mainloop()
 ```
 
