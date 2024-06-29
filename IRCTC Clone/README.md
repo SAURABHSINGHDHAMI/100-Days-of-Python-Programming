@@ -37,9 +37,3 @@ Encapsulation is applied by bundling the data (train details, API response) and 
    python app.py
    ```
 Follow the on-screen instructions to interact with the IRCTC clone. Choose an option to check live train status, PNR, or train schedule.
-
-## 🛠 Dependencies
-
-- requests==2.28.1
-
-This library is used for making HTTP requests to fetch train schedule data.
